@@ -1,0 +1,27 @@
+{
+  "recommended_for_you": "Recommended for you",
+  "tournaments": "Tournaments",
+  "won": "Won",
+  "played": "Played",
+  "winning": "Winning",
+  "percentage": "Percentage",
+  "oops_wrong": "Oops something went wrong",
+  "oops_unexpected": "Oops, something unexpected happened",
+  "home": "Home",
+  "profile": "Profile",
+  "favourites": "Favourites",
+  "settings": "Settings",
+  "logout": "Logout",
+  "tc": "Terms of Service | Privacy Policy",
+  "error": "Error",
+  "username" :"Username",
+  "username_min_val": "Username should be atleast 3 characters",
+  "username_max_val" : "Username should not be greater than 10 characters",
+  "password" :"Password",
+  "password_min_val": "Password should be atleast 3 characters",
+  "password_max_val" : "Password should not be greater than 10 characters",
+  "required": "* Required",
+  "login": "Login"
+
+
+}
